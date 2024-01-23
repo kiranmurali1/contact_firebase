@@ -18,6 +18,7 @@ class _AddContactState extends State<AddContact> {
 
   @override
   Widget build(BuildContext context) {
+    print("object");
     return Scaffold(
       // backgroundColor: Colors.white,
       appBar: AppBar(
